@@ -1,0 +1,8 @@
+languageCode = "en-us"
+title = "Stocktown"
+baseurl = "http://stocktown.net/"
+publishDir = "docs"
+theme = "hemingway2"
+
+[Params]
+  Author = "Martin Gleissner"
